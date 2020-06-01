@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84a273e7-1fd9-46e8-b6fa-bf2b9ed394d9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cgVPXowa5V9SPA4xllQ29OFwPs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinaryTree" />
+      <module name="BinärBaum" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinaryTree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84a273e7-1fd9-46e8-b6fa-bf2b9ed394d9" name="Default Changelist" comment="" />
+      <created>1590950199977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590950199977</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1590950258875">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state x="453" y="114" key="#com.intellij.ide.util.MemberChooser/0.23.1280.733/-295.-1057.1920.1057@0.23.1280.733" timestamp="1590950258875" />
+    <state width="1878" height="201" key="GridCell.Tab.0.bottom" timestamp="1591033313539">
+      <screen x="-295" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="201" key="GridCell.Tab.0.bottom/0.23.1280.733/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1591033313539" />
+    <state width="1878" height="201" key="GridCell.Tab.0.center" timestamp="1591033313538">
+      <screen x="-295" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="201" key="GridCell.Tab.0.center/0.23.1280.733/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1591033313538" />
+    <state width="1878" height="201" key="GridCell.Tab.0.left" timestamp="1591033313538">
+      <screen x="-295" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="201" key="GridCell.Tab.0.left/0.23.1280.733/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1591033313538" />
+    <state width="1878" height="201" key="GridCell.Tab.0.right" timestamp="1591033313539">
+      <screen x="-295" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="201" key="GridCell.Tab.0.right/0.23.1280.733/-295.-1057.1920.1057@-295.-1057.1920.1057" timestamp="1591033313539" />
+  </component>
+</project>
